@@ -19,6 +19,24 @@
 [NeuroInsight.pdf](https://github.com/user-attachments/files/17542669/NeuroInsight.pdf)
 
 
+# 4. Analysing Various Machine Learning Models for Auto-Index Prediction
+
+
+[Major Research Journal.docx](https://github.com/user-attachments/files/18289126/Major.Research.Journal.docx)
+
+
+
+# 5. Next-Generation Hybrid Intelligence for Secure Trajectory Monitoring and Breach Detection in Dynamic Data Link Networks
+<img width="1105" alt="Screenshot 2025-01-02 at 2 17 21 PM" src="https://github.com/user-attachments/assets/57c6f8eb-a7b5-4e63-bf43-8d4a4977a2f3" />
+
+
+[ICICC_2025_Article_650 (1).docx](https://github.com/user-attachments/files/18289124/ICICC_2025_Article_650.1.docx)
+
+
+
+
+
+
 
 
 
