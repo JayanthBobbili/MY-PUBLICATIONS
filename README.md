@@ -1,7 +1,8 @@
 ## The Following are my publications With Proofs
 
 # 1. Merging Realms: Classical and Quantum-Enhanced Deep Learning Techniques for CIFAR-10 Classification
-<img width="305" alt="Screenshot 2024-10-28 at 6 18 54 PM" src="https://github.com/user-attachments/assets/4821b024-23b2-41c7-9655-d2dbf8133af0">
+<img width="1409" alt="CIFAR" src="https://github.com/user-attachments/assets/a689a57f-27f0-4753-b250-cd4abc4dbbda" />
+
 
 
 [Merging Realms.pdf](https://github.com/user-attachments/files/17542636/Merging.Realms.pdf)
@@ -12,8 +13,9 @@
 
 [DRDO Journal.pdf](https://github.com/user-attachments/files/17542650/DRDO.Journal.pdf)
 
-# 3. Neuro-Insights: Unveiling the Power of Deep Learning for Brain Tumor Detection in Neuroimaging (The proof for this publications is recieved by another author)
-<img width="306" alt="Screenshot 2024-10-28 at 6 19 06 PM" src="https://github.com/user-attachments/assets/ef190def-2f5b-4cca-9c64-477452e294bf">
+# 3. Neuro-Insights: Unveiling the Power of Deep Learning for Brain Tumor Detection in Neuroimaging 
+<img width="1405" alt="NEURO" src="https://github.com/user-attachments/assets/166fd6d6-ce08-4117-b34c-4e5ae554c723" />
+
 
 
 [NeuroInsight.pdf](https://github.com/user-attachments/files/17542669/NeuroInsight.pdf)
