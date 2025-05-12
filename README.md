@@ -21,10 +21,7 @@
 
 # 4. Analysing Various Machine Learning Models for Auto-Index Prediction
 
-<img width="363" alt="Screenshot 2025-01-02 at 2 33 22 PM" src="https://github.com/user-attachments/assets/5ade2bf4-59fc-40d9-8ffe-be6c3ac66c05" />
-
-
-<img width="1128" alt="Screenshot 2025-01-02 at 2 35 01 PM" src="https://github.com/user-attachments/assets/8bae59dd-1bf6-41b2-92ec-f226b97b0375" />
+<img width="719" alt="Screenshot 2025-05-12 at 4 56 59 PM" src="https://github.com/user-attachments/assets/0bd40156-7581-44a3-82da-c8c9a6abcda8" />
 
 
 
